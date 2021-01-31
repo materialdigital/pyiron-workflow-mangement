@@ -17,3 +17,6 @@ Finally with an mybinder link the repository can be tested directly.
 Example notebook how to resolve the dependencies for different pyiron workflows
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialdigital/pyiron-workflow-mangement/HEAD?filepath=compare.ipynb)
+
+## Updates 
+The https://dependabot.com app is used to trigger automated updates whenever a new version of a dependency is released. Still dependabot currently only supports `pip` based requirements, updating the conda dependencies still requires manual steps. 
