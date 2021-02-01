@@ -12,6 +12,7 @@ Finally with an mybinder link the repository can be tested directly.
 | pyiron-workflow-thermalexpansion | https://github.com/materialdigital/pyiron-workflow-thermalexpansion | Calculate the thermal expansion for different interatomic potentials using LAMMPS | 0.0.2 |
 | pyiron-workflow-damask | https://github.com/materialdigital/pyiron-workflow-damask | Calculate temperature dependent elastic constants using LAMMPS and then use those elastic constants in DAMASK to calculate the stress-strain curve of a polycrystal | 0.0.1 |
 | pyiron-workflow-phasediagram | https://github.com/materialdigital/pyiron-workflow-phasediagram | Calculate the temperature and concentration dependent free energy with the quasiharmonic approximation using the sqsgenerator, LAMMPS and Phonopy. | 0.0.1 |
+| pyiron-workflow-TEMImageSegmentation | https://github.com/materialdigital/pyiron-workflow-TEMImageSegmentation | Analyzes a TEM image and perform a segmentation on it | 0.0.1 |
 
 ## Resolving the dependencies 
 Example notebook how to resolve the dependencies for different pyiron workflows
